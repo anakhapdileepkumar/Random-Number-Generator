@@ -12,4 +12,4 @@ This is a simple Python program that generates a random number between **1 and 1
 
 ## 🔧 Requirements
 
-- Python 3.x (tested with Python 3.11+)
+- Python 3.x
